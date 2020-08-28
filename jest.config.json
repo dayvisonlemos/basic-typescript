@@ -1,0 +1,8 @@
+{
+    "displayName": "integration",
+    "preset": "ts-jest",
+    "testEnvironment": "node",
+    "bail": true,
+    "verbose": true,
+    "setupFilesAfterEnv": ["./jest.setup.ts"]
+  }

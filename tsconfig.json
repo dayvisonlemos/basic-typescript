@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "es2018",
+      "skipLibCheck": true,
+      "sourceMap": true,
+      "module": "commonjs",
+      "outDir": "./dist",
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "resolveJsonModule": true,
+      "allowJs": true,
+      "removeComments": true
+    },
+    "exclude": [
+      "./node_modules/*",
+      "dist"
+    ]
+  }
+  
